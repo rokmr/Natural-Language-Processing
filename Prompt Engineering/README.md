@@ -6,8 +6,8 @@ performance on the downstream task.
 ![intro](https://github.com/rokmr/Natural-Language-Processing/blob/main/Prompt%20Engineering/images/Intro.png)
 
 ## Two main varieties of prompts: 
-1. *Cloze Prompts* (Petroni et al., 2019; Cui et al., 2021), which fill in the blanks of a textual string, and ->tasks that are solved using masked LMs,
-2. *Prefix prompts* (Li and Liang, 2021; Lester et al., 2021), which continue a string prefix. -> tasks regarding generation, or tasks being solved using a standard auto-regressive LM
+1. **Cloze Prompts** (Petroni et al., 2019; Cui et al., 2021), which fill in the blanks of a textual string, and ->tasks that are solved using masked LMs,
+2. **Prefix prompts** (Li and Liang, 2021; Lester et al., 2021), which continue a string prefix. -> tasks regarding generation, or tasks being solved using a standard auto-regressive LM
 
 Prompt type is being choosen on the basis of the task and the model.
 
