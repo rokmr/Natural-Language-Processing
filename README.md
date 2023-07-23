@@ -2,6 +2,13 @@
 
 Understand the fundamentals of Natural Language Processing (NLP) and how to apply them to solve practical problems. This repository contains the code implementation of different models and techniques used in NLP.
 
+# Topics:
+* Representation of Words (One-Hot, Distributed)
+* SVD for word representation
+* BOW 
+* n gram
+* Skip gram (Word2Vec)
+
 # Resources:
 
 ## Courses 
