@@ -90,7 +90,7 @@ information and the noised linguistic information.
 
 ## Courses 
 
-1. [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+1. **Stanford CS224N: NLP with Deep Learning :** [Course website](https://web.stanford.edu/class/cs224n/) || [2021 Course](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/) || [2021 Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
 ## Papers:
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
