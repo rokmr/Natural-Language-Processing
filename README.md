@@ -95,4 +95,11 @@ information and the noised linguistic information.
 ## Papers:
 * [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+* [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+* [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
+* [GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162.pdf)
+
+# NOTES
+- [KICK Starter Notes](https://www.notion.so/rokmr/NLP-Research-Papers-3918763c924f47a5a82753456fdd2f37?pvs=4)
+
 
