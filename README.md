@@ -1,5 +1,7 @@
 # Natural-Language-Processing
 
+## [NOTES](https://www.notion.so/rokmr/NLP-Research-Papers-3918763c924f47a5a82753456fdd2f37?pvs=4)
+
 Understand the fundamentals of Natural Language Processing (NLP) and how to apply them to solve practical problems. This repository contains the code implementation of different models and techniques used in NLP.
 
 # Topics:
